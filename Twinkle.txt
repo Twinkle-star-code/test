@@ -1,0 +1,11 @@
+Steps for downloading the Eclipse with JDK:
+
+Step 1: For downloading the jdk first you have to go to any browser, type jdk, go to the jdk download page, slide down go to window, you will see there x64 Installer click on the download link.
+
+Step 2: After download, install by open the app then click on next follow all the steps as shown in app
+
+Step 3: Go to Local disk(C) --program files --java --jdk 17 --bin --copy path--setting --system --search environment variables and click on the 2nd link-- click environment variable --path --edit --New --paste copied path --ok --again click new--variable name --JAVA_HOME-- Variable value-- go to the jdk 17 folder--bin-- copy path --paste in variable value --click ok
+
+Steps 4: Now Download Eclipse-- go to browser -- type eclipse.org --click to download shown in the page-- go down-- click on download x86_64-- download eclipse
+
+Steps 5: First open the Eclipse --select eclipse ide for java developers option-- click on Install --Launch --go to file --New --Java project --put any project name --finish --Now you are ready to start your java programming.
